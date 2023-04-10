@@ -98,9 +98,9 @@
 </table>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=vishal-infynno&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrunal&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=vishal-infynno&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" id="vishal-nirmal-1"  src ="https://github-readme-stats.vercel.app/api?username=vishal-infynno&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" id="vishal-nirmal-2" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrunal&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img id="vishal-nirmal-3" src ="https://github-readme-streak-stats.herokuapp.com?user=vishal-infynno&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
-  <img src ="https://github-profile-trophy.vercel.app/?username=vishal-infynno&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
+  <img id="vishal-nirmal-4" src ="https://github-profile-trophy.vercel.app/?username=vishal-infynno&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
 </p>
